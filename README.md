@@ -26,6 +26,9 @@ $ cd py2048
 $ python3 2048.py --n 6 --w 64
 ```
 Here **--n** parameter specifies the grid size and **--w** the target to win
+
 4) Happy 2048
 
 # EXAMPLE
+
+![This is an Example](https://user-images.githubusercontent.com/64409788/82178872-af637c00-98fa-11ea-88f2-e8c5c608ee57.gif)
